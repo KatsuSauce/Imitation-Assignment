@@ -4,16 +4,17 @@
        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-       <div class="hi">
-    <img class="bye" src="seagull.png" alt="seagull">
-      </div> <br/> <p> seagull</p> <br/>
+    <div class="hi">
+        <img class="bye" src="seagull.png" alt="seagull">
+    </div> <br/> <p> seagull</p> <br/>
     <div class="dino">
         <img class="poop" src="dinosaur.png" alt="dino with shadow" height:"100%"/>
     </div>
     <div class="tea">
        <p style="text-align: center;> <h2> Presenting</h2></p>
     </div>
-    <div
+    <div class="sleep"></div>
+    <div class="cute"></div>
     </body>
  
 
