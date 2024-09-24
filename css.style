@@ -5,6 +5,12 @@
     border-image: url(tic-tac-toe.png) 27 round; slice;
     width: 100%;
     height: 200px;
+    -webkit-filter: saturate(50%);
+    filter: saturate(50%);
+  }
+  img.pop {
+      -webkit-filter: saturate(50%);
+      filter: saturate(50%);
   }
     div.hi {
         height: 200px;
