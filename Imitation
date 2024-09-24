@@ -3,7 +3,12 @@
      <head>
        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
-    
-
+    <body>
+       <div class="hi">
+    <img class="bye" src="seagull.png" alt="seagull">
+      </div> <br/> <p> seagull</p> <br/>
+       
+    </body>
+ 
 
  </html>
