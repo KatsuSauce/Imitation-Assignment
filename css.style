@@ -1,7 +1,8 @@
 <style>
-  div {
-    border-image-source: url(tic-tac-toe.png);
-
+  div.pop {
+    border: 27px solid #000;
+    border-image-slice: 27;
+    border-image: url(tic-tac-toe.png) 27 round; slice;
     width: 100%;
     height: 200px;
   }
