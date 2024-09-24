@@ -8,7 +8,7 @@
     div.hi {
         height: 200px;
         background-image: linear-gradient(-90deg, white, lightblue , skyblue);
-        background-color: navy;
+        background-color: blue;
         margin-top: 35px, margin-bottom: 50px, margin-left 35, margin-right 35;
         -webkit-filter: drop-shadow(-5px -5px 5px #000000);
         filter: drop-shadow(-5px -5px 5px #000000);
@@ -22,4 +22,12 @@
     }
     div.dino {
         padding: 300px 
+    }
+    div.tea {
+        height: 200px;
+        -webkit-filter: blur(3px);
+        filter: blur(3px);
+        background-image: url(theater_stage.jpg
+        margin: 10px;
+    }
 </style>
